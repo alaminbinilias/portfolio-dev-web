@@ -61,8 +61,6 @@ ul button{
 }
 
 .banner-content{
-    width: 585px;
-    height: 356px;
     max-width: 585px;
     margin-left: 200px;
 }
@@ -70,12 +68,10 @@ ul button{
     color:#474747;
     font-size: 45px;
     font-weight: 600px;
-    margin-left:-420px;
 }
 .nme{
     font-weight: bold;
     font-size: 85px;
-    margin-left:-100px;
 }
 .description{
     font-size: 18px;
@@ -106,29 +102,5 @@ ul button{
     padding: 130px 156px;
 }
 
-.about_me h3{
-    font-weight: bold;
-    font-size: 35px;
-    margin-bottom: 30px;
-}
-.about_me h3,p{
-    text-align: center;
-}
-.extra_info{
-    display: flex;
-    justify-content:space-around;
-    gap: 20px;
-}
-
-.extra_info p{
-    color: #474747;
-    font-family: 40px;
-}
-
-.ex_1{
-    font-weight: bold;
-    font-size: 20px;
-    color: #000000;
-}
 
 
