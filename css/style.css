@@ -70,10 +70,12 @@ ul button{
     color:#474747;
     font-size: 45px;
     font-weight: 600px;
+    margin-left:-420px;
 }
 .nme{
     font-weight: bold;
     font-size: 85px;
+    margin-left:-100px;
 }
 .description{
     font-size: 18px;
